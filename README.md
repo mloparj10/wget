@@ -1,7 +1,7 @@
 # Utilización del WGET
 
-##1.- Introducción
+## 1.- Introducción
 
-##2.- Instalación
+## 2.- Instalación
 
-##3.- Ejemplos
+## 3.- Ejemplos
