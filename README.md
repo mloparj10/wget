@@ -5,4 +5,4 @@
 
 ## :heavy_minus_sign:[2. Instalación](https://github.com/mloparj10/wget/blob/main/INSTALACI%C3%93N.md)
 
-## :heavy_minus_sign:
+## :heavy_minus_sign:[3. Ejemplos de uso](https://github.com/mloparj10/wget/blob/main/EJEMPLOS.md)
