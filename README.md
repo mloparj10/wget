@@ -1,6 +1,7 @@
 # Utilización del WGET
 
-## 1.- Introducción
+## :heavy_minus_sign:[Introducción](https://github.com/mloparj10/wget/blob/main/INTRODUCCI%C3%93N.md)
+
 
 ## 2.- Instalación
 
